@@ -102,7 +102,8 @@ const handleTimelineCreated = (timeline: gsap.core.Timeline, delay: number) => {
 };
 
 const EXPERIENCE_EN = [
-  { role: "Senior Developer [Hero DMS]", company: "Tata Technologies", years: "2025 - Pres." },
+  { role: "Senior Developer [Magic Edtech]", company: "Magic Edtech", years: "2025 - Pres." },
+  { role: "Senior Developer [Hero DMS]", company: "Tata Technologies", years: "2025" },
   { role: "Senior Developer [Kia Workspace]", company: "Tata Technologies", years: "2024 - Pres." },
   { role: "Developer [Glovis Autobell]", company: "Tata Technologies", years: "2023 - 2024" },
   { role: "Solution Developer [D2C Hyundai]", company: "Tata Technologies", years: "2022 - 2023" },
@@ -110,7 +111,8 @@ const EXPERIENCE_EN = [
 ] as const satisfies { role: string; company: string; years: string }[];
 
 const EXPERIENCE_HI = [
-  { role: "वरिष्ठ डेवलपर [Hero DMS]", company: "Tata Technologies", years: "2025 - वर्तमान" },
+  { role: "वरिष्ठ डेवलपर [Magic Edtech]", company: "Magic Edtech", years: "2025 - वर्तमान" },
+  { role: "वरिष्ठ डेवलपर [Hero DMS]", company: "Tata Technologies", years: "2025" },
   { role: "वरिष्ठ डेवलपर [Kia Workspace]", company: "Tata Technologies", years: "2024 - वर्तमान" },
   { role: "डेवलपर [Glovis Autobell]", company: "Tata Technologies", years: "2023 - 2024" },
   { role: "सॉल्यूशन डेवलपर [D2C Hyundai]", company: "Tata Technologies", years: "2022 - 2023" },
@@ -118,7 +120,8 @@ const EXPERIENCE_HI = [
 ] as const satisfies { role: string; company: string; years: string }[];
 
 const EXPERIENCE_HINGLISH = [
-  { role: "Senior Developer [Hero DMS]", company: "Tata Technologies", years: "2025 - Abhi Tak" },
+  { role: "Senior Developer [Magic Edtech]", company: "Magic Edtech", years: "2025 - Abhi Tak" },
+  { role: "Senior Developer [Hero DMS]", company: "Tata Technologies", years: "2025" },
   { role: "Senior Developer [Kia Workspace]", company: "Tata Technologies", years: "2024 - Abhi Tak" },
   { role: "Developer [Glovis Autobell]", company: "Tata Technologies", years: "2023 - 2024" },
   { role: "Solution Developer [D2C Hyundai]", company: "Tata Technologies", years: "2022 - 2023" },

@@ -36,10 +36,22 @@ interface JobExperience {
 
 const JOBS_EN = [
   {
+    role: "Senior Developer [Magic Edtech]",
+    company: "Magic Edtech",
+    location: "Noida/Remote, India",
+    period: "06/2025 - Present",
+    highlights: [
+      "Developed interactive education solution 'CAB - Custom Assessment Builder' tailored for medical faculty.",
+      "Engineered systems allowing medical faculty to create, share, and review high-quality domain-specific questions.",
+      "Designed custom assessment modules featuring highly flexible exam prep configurations for student testing.",
+      "Optimized question bank sharing pipelines, ensuring real-time responsive workflows and secure reviews."
+    ]
+  },
+  {
     role: "Senior Developer [Hero DMS]",
     company: "Tata Technologies",
     location: "Gurugram/Nepal",
-    period: "03/2025 - Present",
+    period: "03/2025 - 06/2025",
     highlights: [
       "Developed interactive UI/UX designs for high-efficiency Factory Processes in React.",
       "Designed data structures, integration flows, and key system architectures across the stack.",
@@ -99,10 +111,22 @@ const JOBS_EN = [
 
 const JOBS_HI = [
   {
+    role: "वरिष्ठ डेवलपर [Magic Edtech]",
+    company: "Magic Edtech",
+    location: "नोएडा/रिमोट, भारत",
+    period: "06/2025 - वर्तमान",
+    highlights: [
+      "मेडिकल फैकल्टी के लिए कस्टम एडटेक समाधान 'CAB - Custom Assessment Builder' का निर्माण और विकास किया।",
+      "मेडिकल फैकल्टी को उच्च गुणवत्ता वाले विभिन्न प्रकार के चिकित्सा डोमेन प्रश्नों को बनाने, साझा करने और समीक्षा करने में सक्षम बनाया।",
+      "छात्रों के लिए परीक्षा की तैयारी और टेस्ट देने के लिए अत्यधिक लचीले और कॉन्फ़िगर करने योग्य मूल्यांकन मॉड्यूल डिजाइन किए।",
+      "प्रश्न बैंक शेयरिंग पाइपलाइन को इष्टतम किया, जिससे रीयल-टाइम उत्तरदायी वर्कफ़्लो और सुरक्षित समीक्षाएं सुनिश्चित हुईं।"
+    ]
+  },
+  {
     role: "वरिष्ठ डेवलपर [Hero DMS]",
     company: "Tata Technologies",
     location: "गुरुग्राम/नेपाल",
-    period: "03/2025 - वर्तमान",
+    period: "03/2025 - 06/2025",
     highlights: [
       "React में उच्च-दक्षता वाले फ़ैक्टरी प्रोसेस के लिए इंटरैक्टिव UI/UX डिज़ाइन विकसित किए।",
       "पूरे स्टैक में डेटा संरचनाओं, एकीकरण प्रवाह और प्रमुख सिस्टम आर्किटेक्चर को डिज़ाइन किया।",
@@ -162,10 +186,22 @@ const JOBS_HI = [
 
 const JOBS_HINGLISH = [
   {
+    role: "Senior Developer [Magic Edtech]",
+    company: "Magic Edtech",
+    location: "Noida/Remote, India",
+    period: "06/2025 - Abhi Tak",
+    highlights: [
+      "Medical faculty ke liye custom edtech solution 'CAB - Custom Assessment Builder' develop kiya.",
+      "Medical domain ke highly technical aur high-quality questions create, share aur review karne ke features build kiye.",
+      "Students ke liye exams ki preparation aur custom test setup karne ke highly configurable modules design kiye.",
+      "Question bank sharing, secure reviews aur real-time workflows ko optimize aur refine kiya."
+    ]
+  },
+  {
     role: "Senior Developer [Hero DMS]",
     company: "Tata Technologies",
     location: "Gurugram/Nepal",
-    period: "03/2025 - Abhi Tak",
+    period: "03/2025 - 06/2025",
     highlights: [
       "React me high-efficiency Factory Processes ke liye interactive UI/UX designs develop kiye.",
       "Poore stack me data structures, integration flows aur key system architectures design kiye.",
