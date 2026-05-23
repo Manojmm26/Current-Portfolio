@@ -1,0 +1,22 @@
+export const LOCALES = {
+  en: {
+    iso: "en-US",
+    name: "English",
+  },
+  hi: {
+    iso: "hi-IN",
+    name: "हिन्दी",
+  },
+  hinglish: {
+    iso: "hi-Latn",
+    name: "Hinglish",
+  },
+} as const satisfies Record<
+  string,
+  {
+    name: string;
+    iso: string;
+  }
+>;
+
+export const LOCALE_DEFAULT: keyof typeof LOCALES = "en";
