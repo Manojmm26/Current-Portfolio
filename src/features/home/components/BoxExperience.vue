@@ -104,7 +104,7 @@ const handleTimelineCreated = (timeline: gsap.core.Timeline, delay: number) => {
 const EXPERIENCE_EN = [
   { role: "Senior Developer [Magic Edtech]", company: "Magic Edtech", years: "2025 - Pres." },
   { role: "Senior Developer [Hero DMS]", company: "Tata Technologies", years: "2025" },
-  { role: "Senior Developer [Kia Workspace]", company: "Tata Technologies", years: "2024 - Pres." },
+  { role: "Senior Developer [Kia Workspace]", company: "Tata Technologies", years: "2024 - 2025" },
   { role: "Developer [Glovis Autobell]", company: "Tata Technologies", years: "2023 - 2024" },
   { role: "Solution Developer [D2C Hyundai]", company: "Tata Technologies", years: "2022 - 2023" },
   { role: "Associate Software Engineer", company: "Accenture", years: "2019 - 2022" },
@@ -113,7 +113,7 @@ const EXPERIENCE_EN = [
 const EXPERIENCE_HI = [
   { role: "वरिष्ठ डेवलपर [Magic Edtech]", company: "Magic Edtech", years: "2025 - वर्तमान" },
   { role: "वरिष्ठ डेवलपर [Hero DMS]", company: "Tata Technologies", years: "2025" },
-  { role: "वरिष्ठ डेवलपर [Kia Workspace]", company: "Tata Technologies", years: "2024 - वर्तमान" },
+  { role: "वरिष्ठ डेवलपर [Kia Workspace]", company: "Tata Technologies", years: "2024 - 2025" },
   { role: "डेवलपर [Glovis Autobell]", company: "Tata Technologies", years: "2023 - 2024" },
   { role: "सॉल्यूशन डेवलपर [D2C Hyundai]", company: "Tata Technologies", years: "2022 - 2023" },
   { role: "एसोसिएट सॉफ्टवेयर इंजीनियर", company: "Accenture", years: "2019 - 2022" },
@@ -122,7 +122,7 @@ const EXPERIENCE_HI = [
 const EXPERIENCE_HINGLISH = [
   { role: "Senior Developer [Magic Edtech]", company: "Magic Edtech", years: "2025 - Abhi Tak" },
   { role: "Senior Developer [Hero DMS]", company: "Tata Technologies", years: "2025" },
-  { role: "Senior Developer [Kia Workspace]", company: "Tata Technologies", years: "2024 - Abhi Tak" },
+  { role: "Senior Developer [Kia Workspace]", company: "Tata Technologies", years: "2024 - 2025" },
   { role: "Developer [Glovis Autobell]", company: "Tata Technologies", years: "2023 - 2024" },
   { role: "Solution Developer [D2C Hyundai]", company: "Tata Technologies", years: "2022 - 2023" },
   { role: "Associate Software Engineer", company: "Accenture", years: "2019 - 2022" },

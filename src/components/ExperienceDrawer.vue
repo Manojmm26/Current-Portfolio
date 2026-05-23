@@ -63,7 +63,7 @@ const JOBS_EN = [
     role: "Senior Developer [Kia Workspace]",
     company: "Tata Technologies",
     location: "Chennai, India",
-    period: "09/2024 - Present",
+    period: "09/2024 - 06/2025",
     highlights: [
       "Designed and oversaw implementation of modular microfrontend architectures for corporate operations.",
       "Defined standards for cross-communication, event delegation, and microservices sharing.",
@@ -138,7 +138,7 @@ const JOBS_HI = [
     role: "वरिष्ठ डेवलपर [Kia Workspace]",
     company: "Tata Technologies",
     location: "चेन्नई, भारत",
-    period: "09/2024 - वर्तमान",
+    period: "09/2024 - 06/2025",
     highlights: [
       "कॉर्पोरेट संचालन के लिए मॉड्यूलर माइक्रो-फ्रंटएंड आर्किटेक्चर के डिजाइन और कार्यान्वयन की देखरेख की।",
       "क्रॉस-कम्युनिकेशन, इवेंट डेलिगेशन और माइक्रो-सर्विसेज शेयरिंग के लिए मानक निर्धारित किए।",
@@ -213,7 +213,7 @@ const JOBS_HINGLISH = [
     role: "Senior Developer [Kia Workspace]",
     company: "Tata Technologies",
     location: "Chennai, India",
-    period: "09/2024 - Abhi Tak",
+    period: "09/2024 - 06/2025",
     highlights: [
       "Corporate operations ke liye modular microfrontend architectures design aur implement kiye.",
       "Cross-communication, event delegation aur microservices sharing ke standards set kiye.",

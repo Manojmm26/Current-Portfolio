@@ -126,6 +126,11 @@ const classes = computed(() => ["tag", `tag-variant-${props.variant}`]);
       background-color: #06b6d4;
       color: #042f2e;
     }
+
+    &-mongodb {
+      background-color: #47A248;
+      color: white;
+    }
   }
 }
 </style>

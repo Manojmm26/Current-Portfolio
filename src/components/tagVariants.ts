@@ -19,7 +19,8 @@ export type TagVariant =
   | "java"
   | "spring"
   | "bootstrap"
-  | "tailwind";
+  | "tailwind"
+  | "mongodb";
 
 export const tagLabels = {
   three: "Three.js",
@@ -43,4 +44,5 @@ export const tagLabels = {
   spring: "Spring Boot",
   bootstrap: "Bootstrap",
   tailwind: "Tailwind CSS",
+  mongodb: "MongoDB",
 } as const satisfies Record<TagVariant, string>;

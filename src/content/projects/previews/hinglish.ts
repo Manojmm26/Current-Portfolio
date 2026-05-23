@@ -1,3 +1,4 @@
+import thumbnailCAB from "../../../assets/thumbnails/cab.png";
 import thumbnailHeroDMS from "../../../assets/thumbnails/herodms.png";
 import thumbnailKiaWorkspace from "../../../assets/thumbnails/kiaworkspace.png";
 import thumbnailGlovisAutobell from "../../../assets/thumbnails/glovisautobell.png";
@@ -7,6 +8,12 @@ import thumbnailAccentureFinance from "../../../assets/thumbnails/accenturefinan
 import type { ProjectPreview } from "../../types";
 
 export default [
+  {
+    title: "CAB",
+    slug: "cab",
+    thumbnail: thumbnailCAB,
+    description: "Medical Custom Assessment Builder Solution",
+  },
   {
     title: "Hero DMS",
     slug: "herodms",
